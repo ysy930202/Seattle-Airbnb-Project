@@ -1,0 +1,9 @@
+# Dataset dumps
+datasets/
+
+# PNGs
+*.png
+
+# Misc
+.ipynb_checkpoints/
+.DS_Store
