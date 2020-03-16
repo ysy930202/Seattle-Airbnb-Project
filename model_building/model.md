@@ -2,9 +2,9 @@
 
 ## [Read and Assess](.../read_assess/read_assess.md)
 
-## [Preprocessing](preprocessing/cleaning.md)
+## [Preprocessing](.../preprocessing/cleaning.md)
 
-## [Analyze and Visualize](analyze_visualize/analyze_visualize.md)
+## [Analyze and Visualize](.../analyze_visualize/analyze_visualize.md)
 
 # Model Building
 
