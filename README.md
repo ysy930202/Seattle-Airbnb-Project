@@ -19,6 +19,14 @@
 * Cleaning and streamlining our data set to focus on key variables that have predictive potency in predicting listing price.
 * Analyzing the relationship that date has on listing price, to better help optimize our model to predict the optimal listing price on a specified date.
 
+### Summary and Conclusion
+In this analysis, I tried to understand the relationship between features and price.By doing data analysis and visualization, I looked into some features affects on price seperately. Then the Random Forest model further helped me validate my analysis result and pick import features. 
+
+We could know that the basic characteristics of place, the host quality and time of year would affect price. If you are host, this will help you make decision on your price. If you want to book a place, this will help you find the favoriate and the cheapiest place.
+
+## Acknowledgments
+Thanks for the excellent teaching by Josh, whose give me a lot background and platform to learn knowledge and practice myself. 
+
 #### Mainly Libraries Used
 
 * [Python Standard Library](https://docs.python.org/2/library/): Built in python modules.
